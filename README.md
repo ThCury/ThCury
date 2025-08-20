@@ -3,18 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=8c00c7&random=false&width=435&height=40&lines=Ol%C3%A1%2C+Eu+sou+Thiago+Cury!+%F0%9F%91%BE%F0%9F%93%9A%F0%9F%92%99)](https://git.io/typing-svg)
 
 
+Tenho 22 anos e sou estudante de Engenharia de Software na PUC Minas. Também tenho formação técnica em Administração e, hoje, trabalho na GlobalCAD e no PASI, onde lido bastante com C#, VB e SQL no dia a dia.
 
-Sou estudante de **Engenharia de Software** na **PUC Minas** e possuo formação técnica em **Administração**.  
-Atualmente trabalho na **GlobalCAD** e na **PASI**, atuando com **C#**, **VB** e **SQL** no dia a dia.  
+Ao longo do tempo, fui ganhando bastante experiência com bancos de dados SQL, mas também gosto de programar em Java e JavaScript. O que mais me chama atenção na área é o back-end e tudo que envolve banco de dados, porque é onde sinto que consigo me aprofundar de verdade.
 
-Tenho experiência sólida com **bancos de dados SQL**, além de conhecimentos em **Java** e **JavaScript**.  
-Tenho interesse especial em **banco de dados** e **desenvolvimento back-end**, áreas nas quais busco me aprofundar continuamente.  
-
-Tenho espírito empreendedor e gosto de colocar essa criatividade em prática não só no trabalho, mas também no dia a dia.  
-Entre minhas paixões estão **cozinhar** e fazer **corridas** com minha namorada, o que me ajuda a equilibrar a rotina.  
-Valorizo muito o tempo em família, principalmente ao lado da minha **avó**, que sempre foi uma grande inspiração pra mim.  
-Minha comida preferida é **hambúrguer**, meu jogo favorito é **Minecraft**, e, acima de tudo, o que eu mais amo no mundo é a minha namorada **Anna** sou muito grato por ela.  
-
+Fora do trabalho, gosto de inventar coisas novas, cozinhar umas receitas (algumas dão certo, outras nem tanto 😂) e sair pra correr com minha namorada. Valorizo muito o tempo com a minha família, principalmente com a minha avó, que sempre foi uma inspiração gigante pra mim. Minha comida preferida é um bom hambúrguer, meu jogo favorito é Minecraft, e, no fim das contas, o que eu mais amo no mundo é a minha namorada, Anna, e sou muito grato por ela.
 
 <h3 align="left">Connect with me!</h3>
 
