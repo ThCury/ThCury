@@ -4,13 +4,24 @@
 
 
 
-<p align="left">Sou estudante de Engenharia de Software na PUC Minas e possuo formação técnica em Administração.
-Atualmente trabalho na GlobalCAD e na PASI, atuando com C#, VB e SQL no dia a dia.
 
-Tenho experiência sólida com bancos de dados SQL, além de conhecimentos em Java e JavaScript.
-Tenho interesse especial em banco de dados e desenvolvimento back-end, áreas nas quais busco me aprofundar continuamente.
+<p align="left">
+Sou estudante de **Engenharia de Software** na **PUC Minas** e possuo formação técnica em **Administração**.  
+Atualmente trabalho na **GlobalCAD** e na **PASI**, atuando com **C#**, **VB** e **SQL** no dia a dia.  
+</p>
 
-Tenho espírito empreendedor e gosto de colocar essa criatividade em prática não só no trabalho, mas também no dia a dia. Entre minhas paixões estão cozinhar e fazer corridas com minha namorada, o que me ajuda a equilibrar a rotina. Valorizo muito o tempo em família, principalmente ao lado da minha avó, que sempre foi uma grande inspiração pra mim. Minha comida preferida é hambúrguer, meu jogo favorito é Minecraft, e, acima de tudo, o que eu mais amo no mundo é a minha namorada, Anna Luisa.
+<p align="left">
+Tenho experiência sólida com **bancos de dados SQL**, além de conhecimentos em **Java** e **JavaScript**.  
+Tenho interesse especial em **banco de dados** e **desenvolvimento back-end**, áreas nas quais busco me aprofundar continuamente.  
+</p>
+
+<p align="left">
+Tenho espírito empreendedor e gosto de colocar essa criatividade em prática não só no trabalho, mas também no dia a dia.  
+Entre minhas paixões estão cozinhar e fazer corridas com minha namorada, o que me ajuda a equilibrar a rotina.  
+Valorizo muito o tempo em família, principalmente ao lado da minha avó, que sempre foi uma grande inspiração pra mim.  
+Minha comida preferida é **hambúrguer**, meu jogo favorito é **Minecraft**, e, acima de tudo, o que eu mais amo no mundo é a minha namorada, **Anna Luisa**.  
+</p>
+
 
 <h3 align="left">Connect with me!</h3>
 
