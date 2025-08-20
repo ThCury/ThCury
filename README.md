@@ -4,10 +4,13 @@
 
 
 
-<p align="left">Atualmente sou estudante de Engenharia de Software na PUC-Minas (Pontifícia Universidade Católica de Minas Gerais) e possuo diploma técnico em Administração.
-Me interesso tanto por front quanto por back-end, mas admito ter uma raiva do front, e minhas principais linguagens são Java e JavaScript. 
-Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprender e utilizar meus conhecimentos para criar soluções inovadoras e práticas!
+<p align="left">Sou estudante de Engenharia de Software na PUC Minas e possuo formação técnica em Administração.
+Atualmente trabalho na GlobalCAD e na PASI, atuando com C#, VB e SQL no dia a dia.
 
+Tenho experiência sólida com bancos de dados SQL, além de conhecimentos em Java e JavaScript.
+Tenho interesse especial em banco de dados e desenvolvimento back-end, áreas nas quais busco me aprofundar continuamente.
+
+Tenho espírito empreendedor e gosto de colocar essa criatividade em prática não só no trabalho, mas também no dia a dia. Entre minhas paixões estão cozinhar e fazer corridas com minha namorada, o que me ajuda a equilibrar a rotina. Valorizo muito o tempo em família, principalmente ao lado da minha avó, que sempre foi uma grande inspiração pra mim. Minha comida preferida é hambúrguer, meu jogo favorito é Minecraft, e, acima de tudo, o que eu mais amo no mundo é a minha namorada, Anna Luisa.
 
 <h3 align="left">Connect with me!</h3>
 
@@ -19,17 +22,17 @@ Eu estudo e me atualizo na área da tecnologia constantemente, pois adoro aprend
 
 <div align="left" style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="25" width="25px" alt="react logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" width="25px" alt="spring boot logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" width="25px" alt="python logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="25" width="25px" alt="csharp logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="25" width="25px" alt="mysql logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" width="25px" alt="java logo"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" height="25" width="25px" alt="visual basic logo"/>
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="25" width="25px" alt="javascript logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" width="25px" alt="c logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="25" width="25px" alt="cplusplus logo"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualbasic/visualbasic-original.svg" height="25" width="25px" alt="visual basic logo"/>
-
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="25" width="25px" alt="spring boot logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="25" width="25px" alt="angular logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="25px" width="25px" alt="html5 logo"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="25px" width="25px" alt="css3 logo"/>
