@@ -45,8 +45,6 @@ Fora do trabalho, gosto de inventar coisas novas, cozinhar umas receitas (alguma
 </picture>
 <br><br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThCury&layout=compact&theme=transparent&cache_seconds=1800)
-
 <details align="left">
   <summary></summary> 
  
