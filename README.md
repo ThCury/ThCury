@@ -38,7 +38,6 @@ Fora do trabalho, gosto de inventar coisas novas, cozinhar umas receitas (alguma
 
 
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThCury/ThCury/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThCury/ThCury/output/github-contribution-grid-snake.svg">
@@ -46,7 +45,7 @@ Fora do trabalho, gosto de inventar coisas novas, cozinhar umas receitas (alguma
 </picture>
 <br><br>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ThCury&layout=compact&theme=transparent&cache_seconds=1800)
 
 <details align="left">
   <summary></summary> 
@@ -55,7 +54,7 @@ Fora do trabalho, gosto de inventar coisas novas, cozinhar umas receitas (alguma
   - GitHub Stats by <a href="https://github.com/anuraghazra/github-readme-stats">anuraghazra</a>.
   - Developer vector created by @andi_aqua_ on <a href="https://picrew.me/en/">picrew</a>.
  
-  <div align="right">Made with 💜 by <a href="https://github.com/ThCury">ThCury</a>.</div>
+  <div align="right">Made by <a href="https://github.com/ThCury">ThCury</a>.</div>
 
 </details>
 
